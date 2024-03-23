@@ -9,8 +9,8 @@ public class C extends  B{
     C(String S){
         this();
 <<<<<<< HEAD
-        System.out.println("Constructor C PARAMS got called "+S);
+        System.out.println("Constructor C PARAMS got called  "+S);
 =======
-        System.out.println("Constructor C PARAMS got called"+S);
+        System.out.println("Constructor C PARAMS got called "+S);
 >>>>>>> origin/master
     }          }
