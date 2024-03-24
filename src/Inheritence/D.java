@@ -9,6 +9,9 @@ public class D  extends  C {
         System.out.println("Constructor d PARAMS got called "+ S);
     }
 
+    C dosomething(){
+        System.out.println("DO SOMeTHING");
+          return  new C();  }
 
 
 }
