@@ -1,4 +1,4 @@
 package abstractPkg;
 
-public class bata extends B{
-}
+//public class bata extends B{
+//}
